@@ -15,6 +15,9 @@ Items_List: Maintains quantities of individual products.
 Order_table: Contains information about orders, including ID, generation date, status, user, and total price.
 Review: Stores customer comments on products, including ratings and text.
 User: Contains user information such as name, email, address, registration date, and password.
+![image](https://github.com/user-attachments/assets/f6589e50-a719-4b7e-b6ee-4f3a15d768d2)
+
+
 # Conclusion
 Over this semester, I personally conducted an extensive analysis, design, and implementation of a database for an e-commerce platform. During the creation of the data model, I focused on defining relationships between tables to enable efficient data storage and manipulation. Additionally, I wrote scripts to create the database, populated it with test data, and created views that provide valuable insights into orders and user preferences.
 
