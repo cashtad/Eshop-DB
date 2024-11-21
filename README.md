@@ -1,10 +1,3 @@
-E-shop
-Course: KIV/DB1 – Semester Project
-Student: Leonid Malakhov
-Personal ID: A22B0387P
-Email: malakhov@students.zcu.cz
-Date: December 18, 2023
-
 # Task Description
 As part of an independent semester project, the student is required to create a simple database application based on a chosen theme. The task scope requires a minimum of five tables in the relational database schema, excluding enumeration-type tables. The project must also include a report with a structure adhering to conceptual modeling standards. The report consists of:
 
